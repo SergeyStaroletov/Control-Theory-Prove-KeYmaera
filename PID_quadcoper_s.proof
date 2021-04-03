@@ -1,6 +1,6 @@
 \settings {
 "#Proof-Settings-Config-File
-#Fri Apr 02 16:52:27 NOVT 2021
+#Fri Apr 02 16:59:47 NOVT 2021
 [General]UseJML=true
 [DecisionProcedure]savefile=false
 [SimultaneousUpdateSimplifier]DeleteEffectLessLocations=true
@@ -72,7 +72,7 @@
 [TacletTranslation]saveToFile=false
 [MathematicaOptions]useParallelize=true
 [DLOptions]groebnerBasisCalculator=Orbital
-[TacletTranslation]filename="
+[TacletTranslation]filename=
 [DLOptions]percentOfPowersetForIterativeReduce=70
 [StrategyProperty]STOPMODE_OPTIONS_KEY=STOPMODE_DEFAULT
 [ReduceOptions]rlposden=DEFAULT
@@ -137,7 +137,7 @@
                                                                                                                                                             \] (  (g)
                                                                                                                                                                 = (9.8)))
                                                                                                                                                        & (  (m)
-                                                                                                                                                          = (2             = (2.03)))
+                                                                                                                                                          = (              = (2.03)))
                                                                                                                                                     & (  (U)
                                                                                                                                                        = (0)))
                                                                                                                                                  & (  (Ixx)
@@ -507,6 +507,7 @@
 
 \proof {
 (keyLog "0" (keyUser "sergey" ) (keyVersion "b7a6dcc7fc758ac54ff97e731d50bdc3ef32760f"))
+(keyLog "1" (keyUser "sergey" ) (keyVersion "b7a6dcc7fc758ac54ff97e731d50bdc3ef32760f"))
 
 (autoModeTime "5992")
 
